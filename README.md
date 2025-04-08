@@ -1,0 +1,1 @@
+This project involves building a Large Language Model (LLM) for generating human-like text using deep learning techniques. Implemented using Python with libraries such as PyTorch, TensorFlow, NumPy, Pandas, Matplotlib, Tiktoken, and the Transformer architecture. The focus was on clean code, efficient tokenization, and training workflows for reproducible results.
